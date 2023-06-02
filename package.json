@@ -32,5 +32,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
